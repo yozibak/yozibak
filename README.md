@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yozibak, fullstack developer, typically writing Typescript/React, Python/Django, Dart/Flutter. 
 - 👀 I’m interested in OOP, BDD, ML, and automation generally (and more out of tech as well)
-- 🌱 I’m currently learning design patterns. 
+- 🌱 I’m currently learning design patterns of GOF. 
 - 💞️ I’m looking to collaborate on Web App Project which will make clients WOW.
 - 📫 How to reach me: yozibak at kixworx com
