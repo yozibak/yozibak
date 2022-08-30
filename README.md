@@ -2,7 +2,7 @@
 👋 Hi, I’m @yozibak,
 - Fullstack developer & freelancer, typically writing Typescript/React, Python/Django, Dart/Flutter. 
 - I'm dedicated to helping tech team & business owners to grow with solid softwares 💪
-- I'd love to build sclable, smooth & beautiful softwares that help people have excellent UX!!
+- I'd love to build sclable, smooth & beautiful softwares with excellent UX!
 
 ✉️ How to reach me
 - Mail: yozibak at kixworx com
