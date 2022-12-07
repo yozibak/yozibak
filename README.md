@@ -10,4 +10,4 @@ Hi, I’m @yozibak,
 
 日本語：
 - React、AWS、Python、Flutterなどを中心に、PJの企画設計からグロースまでをお助けしています。
-- Biz Site: [https://www.kixworx.biz/](https://www.kixworx.biz/)
+- 詳しいお仕事内容はこちらをご覧ください: [https://www.kixworx.biz/](https://www.kixworx.biz/)
