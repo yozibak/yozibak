@@ -1,8 +1,7 @@
 
-👋 Hi, I’m @yozibak,
+I’m @yozibak,
 - Fullstack developer & freelancer, typically writing Typescript/React, Python/Django, Dart/Flutter. 
-- I'm dedicated to helping tech team & business owners to grow with solid softwares 💪
-- I'd love to build sclable, smooth & beautiful softwares with excellent UX!
+- I'd love to build sclable, smooth & beautiful softwares.
 
 ✉️ How to reach me
 - Mail: yozibak at kixworx com
@@ -11,6 +10,6 @@
 
 日本語：
 - こんにちは！フリーランスエンジニアの吉田です。
-- React、AWS、Python、Flutterなどの技術領域を中心に、プロジェクトの企画段階からグロースまでをお助けしています！
-- 実装するだけでなく、常にアーキテクトとしての観点で携わります！ご気軽にご連絡ください。
+- React、AWS、Python、Flutterなどを中心に、PJの企画設計からグロースまでをお助けしています。
+- 実装だけでなく、常にアーキテクトとしての観点で携わります。いつでもご連絡ください。
 - Biz Site: [https://www.kixworx.biz/](https://www.kixworx.biz/)
