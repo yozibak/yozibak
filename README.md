@@ -6,7 +6,6 @@ Hi, I’m @yozibak,
 ✉️ How to reach me
 - Mail: yozibak at kixworx com
 - Blog: [https://yozibak.com](https://yozibak.com)
-- Twitter: @yozibak
 
 日本語：
 - React、AWS、Python、Flutterなどを中心に、PJの企画設計からグロースまでをお助けしています。
